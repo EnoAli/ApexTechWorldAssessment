@@ -1,0 +1,58 @@
+<p align="center"><a href="https://www.apextechworld.com/" target="_blank"><img src="data:image/png;base64,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" width="400"></a></p>
+
+## Apex Tech World Challenge
+
+### Setup procedure
+1. Fork the repository in your personal github account
+2. Checkout a new feature branch from `main`
+3. Complete the test in 2h and 30min
+4. Push the code and prepare the Pull Request from feature branch to main branch
+
+### Test #01
+#### Objective
+Create feature *DebitCard* and *DebitCardTransaction* endpoints and relatives policies, validations and resources.
+
+#### Business Logic
+Each customer can have multiple *Debit Cards* and each debit card can have many *Debit Card Transactions*.
+
+- The customer should be able to create, update, read and delete his debit cards. 
+- For each debit card the customer should be able to read and create debit card transactions.
+
+##### Debit cards endpoints:
+- **get** `/debit-cards`
+- **post** `/debit-cards`
+- **get** `/debit-cards/{debitCard}`
+- **put** `/debit-cards/{debitCard}`
+- **delete** `/debit-cards/{debitCard}`
+
+##### Debit card transactions endpoints *(optional/bonus point)*:
+- **get** `/debit-card-transactions`
+- **post** `/debit-card-transactions`
+- **get** `/debit-card-transactions/{debitCardTransaction}`
+
+
+**IMPORTANT:** For this challenge you SHOULD ONLY update the feature tests
+
+---
+
+### Test #02
+
+#### Objective
+Create a Loan service to handle repayments
+
+#### Business Logic
+Each customer can have a credit *loan* (due in 3 or 6 months). So a Loan has 3 or 6 *scheduled repayments* (once each month),
+and it can be repaid with *received repayments*.
+Example:
+
+Loan of 3 months, amount 3000$, created on 2021-01-01
+- Scheduled Repayment of 1000$ due to 2021-02-01
+- Scheduled Repayment of 1000$ due to 2021-03-01
+- Scheduled Repayment of 1000$ due to 2021-04-01
+
+A customer can repay the full amount of each single scheduled repayment, but also he can repay partially or in full
+
+#### Challenge
+- the migrations/factories for scheduled_repayments and received_repayment tables;
+- the Loan, ScheduledRepayment, and ReceivedRepayment Models;
+- the LoanService class;
